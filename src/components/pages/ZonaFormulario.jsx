@@ -6,7 +6,7 @@ const ZonaFormualrio = () => {
 
     return(
         <div className="zonaFormulario">
-
+            
             <Formulario/>
 
         </div>
